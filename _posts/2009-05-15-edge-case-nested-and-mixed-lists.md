@@ -7,7 +7,6 @@ tags:
   - css
   - edge case
   - lists
-  - markup
   - Madrid
 last_modified_at: 2017-03-09T14:25:52-05:00
 ---
